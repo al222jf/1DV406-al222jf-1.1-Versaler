@@ -1,0 +1,6 @@
+P:\Git\1DV406-al222jf-1.1-Versaler\1.1-Versaler\1.1-Versaler\bin\1.1-Versaler.dll.config
+P:\Git\1DV406-al222jf-1.1-Versaler\1.1-Versaler\1.1-Versaler\bin\1.1-Versaler.dll
+P:\Git\1DV406-al222jf-1.1-Versaler\1.1-Versaler\1.1-Versaler\bin\1.1-Versaler.pdb
+P:\Git\1DV406-al222jf-1.1-Versaler\1.1-Versaler\1.1-Versaler\obj\Debug\1.1-Versaler.csprojResolveAssemblyReference.cache
+P:\Git\1DV406-al222jf-1.1-Versaler\1.1-Versaler\1.1-Versaler\obj\Debug\1.1-Versaler.dll
+P:\Git\1DV406-al222jf-1.1-Versaler\1.1-Versaler\1.1-Versaler\obj\Debug\1.1-Versaler.pdb
